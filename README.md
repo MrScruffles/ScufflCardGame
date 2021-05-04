@@ -3,7 +3,7 @@
 Scuffl is a card - game built by a few friends on Unreal Engine.
 
 **FYI**
-- **ReadME and UpdateLogs are the same file**
+- **ReadME and UpdateLogs are the same file.**
 
 **Version**
 - *v0.08.5 got released on 5/4/2021.*

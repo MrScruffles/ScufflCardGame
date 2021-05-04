@@ -13,6 +13,7 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - 3D/2D Maps.
 - A custom "War" game.
 - AI Support.
+- Unreal Engine Version 4.26.2.
 
 **Pictures**
 - N/A

@@ -4,4 +4,5 @@
 - *Next update is v0.08.6*
 
 **v0.08.5 [Scuffl Game]**
-- **[Pending a Fix...]** - Forgot to close out the output console on the top left. You will see need to rebuild lighting while playing on the Scuffl Map.
+- **[Fixed]** - Forgot to close out the output console on the top left. You will see need to rebuild lighting while playing on the Scuffl Map.
+- **[Multiplayer Bug]** - Becuause Arena_Classis only supports single player as of now, joining an on going match in it won't do anything.

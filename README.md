@@ -14,7 +14,15 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - **Game Progress Update**
 
 **What is Fixed**
-- Not written yet.
+- **5/5/2021 - 22:29 - v0.08.6 [Scuffl Game]**
+**Game Progress Update**
+
+**What is Fixed**
+**[Fixed]** - Forgot to close out the output console on the top left. You will see need to rebuild lighting while playing on the Scuffl Map.
+**[Multiplayer Bug]** - Becuause Arena_Classis only supports single player as of now, joining an on going match in it won't do anything.
+**[Pending a Fix...]** - During gameplay spamming the give deck button, may break the “War” animation.
+**[Fixed]** - Anchoring of certain UI fixed. 
+**[Fixed]** - Redid some parts of UI and replaced it with the old. 
 
 **What got Added**
 

@@ -28,4 +28,4 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - Draw Cards.
 - Places winner/loser/draw.
 - Draw, places three cards both sides, with animation.
-- Top UI (Red), shows cards in pile and removes/adds on win/loss.
+- Top UI (Red), shows cards in pile and removes/adds points on win/loss.

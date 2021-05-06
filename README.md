@@ -17,11 +17,13 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - Not written yet.
 
 **What got Added**
-- **[Updates]** 
+
+**[UI Updates]** 
 - Plenty of UI elements were added, again.
 - Many coding, improvemnts.
 
-- **[Updates]** 
+
+**[Game Updates]** 
 - Game does function, with many added features.
 - Draw Cards.
 - Places winner/loser/draw.

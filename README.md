@@ -2,25 +2,28 @@
 # ScufflCardGame
 Scuffl is a card - game built by a few friends on Unreal Engine.
 
-**Branches**
-- Click on branches to get select version.
+**FYI**
+- **ReadME will always have the update log outfront, while the logs are there so people can see the older updates/changes.**
 
 **Version**
-- *v0.08.5 got released on 5/4/2021.*
-- *v0.08.6 in the works.*
+- *v0.08.6 got released on 5/5/2021.*
+- *v0.08.7 in the works.*
 
-**Features**
-- 100% Blueprints.
-- Multiplayer support.
-- Custom made decals.
-- 3D/2D Maps.
-- A custom "War" game.
-- AI Support.
-- Unreal Engine Version 4.26.2.
+**Updates**
+- **5/5/2021 - 22:41 - v0.08.6 [Scuffl Game]**
+- **Game Progress Update**
 
-**Pictures**
-- N/A
+**What is Fixed**
+- Not written yet.
 
-**Extras**
-- This project will be open - sourced once it goes into a playable state.
-- Playable .exe files will be published. (Extract Zip Files)
+**What got Added**
+- **[Updates]** 
+- Plenty of UI elements were added, again.
+- Many coding, improvemnts.
+-  
+- **[Updates]** 
+- Game does function, with many added features.
+- Draw Cards.
+- Places winner/loser/draw.
+- Draw, places three cards both sides, with animation.
+- Top UI (Red), shows cards in pile and removes/adds on win/loss.

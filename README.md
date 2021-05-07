@@ -4,7 +4,7 @@
 <a href="https://github.com/MrScruffles/ScufflCardGame/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/blob/Description/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
 
-<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Platform" src="https://img.shields.io/badge/Platform-Windows-Blue?style=for-the-badge&logo=windows"></a>
+<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Platform" src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Version" src="https://img.shields.io/badge/Version-v0.08.6-success?style=for-the-badge"></a>
 
 # ScufflCardGame

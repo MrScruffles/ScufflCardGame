@@ -20,6 +20,7 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 
 **Pictures**
 - N/A
+- Coming soon...
 
 **Extras**
 - This project will be open - sourced once it goes into a playable state.

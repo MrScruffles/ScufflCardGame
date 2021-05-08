@@ -1,4 +1,4 @@
-![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117519467-9a4f8500-af71-11eb-94d6-bed772baecec.png)
+![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117519569-16e26380-af72-11eb-8a81-b4365c521e44.png)
 
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Update Date" src="https://img.shields.io/github/release-date/MrScruffles/ScufflCardGame?label=Updated&style=for-the-badge">
 <a href="https://github.com/MrScruffles/ScufflCardGame/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
@@ -36,3 +36,4 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - Playable .exe files will be published. (Extract Zip Files)
 - Let me know if you want an exported package for a different platform.
 - MIT Licence was added. [May 6, 2021]
+![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117519560-0d58fb80-af72-11eb-925d-a28254aa4eef.png)

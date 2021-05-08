@@ -28,12 +28,14 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - Unreal Engine Version 4.26.2.
 
 **Pictures**
-- N/A
-- Coming soon...
+
+ - **Icon Images**
+
+![IconImages](https://user-images.githubusercontent.com/83662366/117519668-87898000-af72-11eb-8ed6-f6d2c6e4aa8f.png)
+
 
 **Extras**
 - This project will be open - sourced once it goes into a playable state.
 - Playable .exe files will be published. (Extract Zip Files)
 - Let me know if you want an exported package for a different platform.
 - MIT Licence was added. [May 6, 2021]
-![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117519560-0d58fb80-af72-11eb-925d-a28254aa4eef.png)

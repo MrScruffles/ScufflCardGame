@@ -1,4 +1,4 @@
-![instagramlogo_0Ty_icon](https://user-images.githubusercontent.com/83662366/117080672-5576e480-ad0c-11eb-889f-4f4b9618fa9c.png)
+![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117519467-9a4f8500-af71-11eb-94d6-bed772baecec.png)
 
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Update Date" src="https://img.shields.io/github/release-date/MrScruffles/ScufflCardGame?label=Updated&style=for-the-badge">
 <a href="https://github.com/MrScruffles/ScufflCardGame/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/MrScruffles/ScufflCardGame?style=for-the-badge"></a>

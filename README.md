@@ -7,35 +7,13 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 
 **Version**
 - *v0.08.6 got released on 5/5/2021.*
-- *v0.08.7 in the works.*
+- *v0.08.7 coming soon...*
 
 **Updates**
-- **5/5/2021 - 22:41 - v0.08.6 [Scuffl Game]**
-
-- **Game Progress Update**
+- Coming Soon...
 
 **What is Fixed**
-- **5/5/2021 - 22:29 - v0.08.6 [Scuffl Game]**
-**Game Progress Update**
-
-**What is Fixed**
-
-- **[Fixed]** - Forgot to close out the output console on the top left. You will see need to rebuild lighting while playing on the Scuffl Map.
-- **[Multiplayer Bug]** - Because Arena_Classis only supports single player as of now, joining an on going match in it won't do anything.
-- **[Pending a Fix...]** - During gameplay spamming the give deck button, may break the “War” animation.
-- **[Fixed]** - Anchoring of certain UI fixed. 
-- **[Fixed]** - Redid some parts of UI and replaced it with the old. 
+- Coming Soon...
 
 **What got Added**
-
-**[UI Updates]** 
-- Plenty of UI elements were added, again.
-- Many coding, improvemnts.
-
-
-**[Game Updates]** 
-- Game does function, with many added features.
-- Draw Cards.
-- Places winner/loser/draw.
-- Draw, places three cards both sides, with animation.
-- Top UI (Red), shows cards in pile and removes/adds points on win/loss.
+- Coming Soon...

@@ -1,11 +1,11 @@
 ![ScuffNewLogo](https://user-images.githubusercontent.com/83662366/117551702-629a1900-b015-11eb-8843-374b1dd974b4.png)
 
-<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Update Date" src="https://img.shields.io/github/release-date/MrScruffles/ScufflCardGame?label=Updated&style=for-the-badge">
+<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Update Date" src="https://img.shields.io/github/release-date/MrScruffles/ScufflCardGame?label=Updated&style=for-the-badge"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/blob/Description/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/MrScruffles/ScufflCardGame?color=bright&style=for-the-badge"></a>
 
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Platform" src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows"></a>
-<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MrScruffles/ScufflCardGame?style=for-the-badge">
+<a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
  
 # Social

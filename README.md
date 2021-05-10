@@ -7,7 +7,7 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 
 **Version**
 - *v0.08.7 got released on 5/10/2021.*
-- *v0.08.8 in the works...*
+- *v0.08.8 in the works.*
 
 **5/10/2021 - 17:57 - v0.08.7 [Scuffl Game]**
 - **Major Update**

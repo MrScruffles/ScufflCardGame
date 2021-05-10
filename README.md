@@ -7,6 +7,9 @@
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub Platform" src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows"></a>
 <a href="https://github.com/MrScruffles/ScufflCardGame/releases/"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MrScruffles/ScufflCardGame?style=for-the-badge">
 <a href="https://github.com/MrScruffles/ScufflCardGame/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/MrScruffles/ScufflCardGame?style=for-the-badge"></a>
+ 
+# Social
+<a href="https://www.instagram.com/real_scuffl/"><img alt="Instagram Social" src="https://img.shields.io/badge/Instagram-E4405F?https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge"></a>
 
 # ScufflCardGame
 Scuffl is a card - game built by a few friends on Unreal Engine.

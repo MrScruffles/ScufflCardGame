@@ -21,7 +21,7 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - **[Updates]** - During war phase, when both drawn cards are equal, it will play animation and draw the face up card. While doing so it will state winner/looser or even state drawn which will repeat the war phase again.
 - **[Updates]** - There is now a coin in the top right which adds .25 points on each Win. This will be later used on a shop.
 - **[Updates]** - Plenty of AI improvements. 
-- **[Updates]** - New icon(s) are now being implented.
+- **[Updates]** - New icon(s) are now, slowly, being implented.
 
 **Uploaded**
 - The source code is uploaded. 

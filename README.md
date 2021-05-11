@@ -18,6 +18,12 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 <a href="https://www.unrealengine.com/en-US/"><img alt="Unreal Engine 4" src="https://img.shields.io/badge/Unreal%20Engine%204-100000?style=for-the-badge&logoColor=white"></a>
 <a href="https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/GettingStarted/index.html"><img alt="Blueprints" src="https://img.shields.io/badge/Coding%20Language%20=%20Blueprints-blue?style=for-the-badge&labelColor=blue"></a>
 
+**Steam**
+- The game, will be published on steam, hopefully in later future, when the project nears end of alpha.
+- The game is currenlty being work on an updates usually once a week with many updates to the game.
+
+<a href="https://store.steampowered.com/"><img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+
 **Branches**
 - Click on branches to get select version.
 

@@ -1,26 +1,123 @@
-### Welcome to Scuffl
+---
+layout: default
+---
 
---------------------------------------------------------------------
-- Scuffl is a project that is being worked on by a few friends.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-- Ethan (Project Manager & Designer)
-- Ash (Lead Programmer)
-- Jacob (Senior Programmer)
-- Brian (Senior Programmer)
-- Zeke (Designer)
-- Jaden (Sound Design)
-- Quinn (Sound Design)
+[Link to another page](./another-page.html).
 
-### The Game
+There should be whitespace between paragraphs.
 
--  N/A
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-For more details see [Description Page](https://github.com/MrScruffles/ScufflCardGame/tree/Description).
+# Header 1
 
-### Open Source
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-- As of right now we plan the project to be open - sourced on launched, but this may change. Feel free to download the .exe files on our github releases. Be sure to look at the Update Logs to understand what as added/worked on.
+## Header 2
 
-### Support or Contact
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-Having trouble with Scuffl? Create an issue or contact on us on instagram for help.
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```

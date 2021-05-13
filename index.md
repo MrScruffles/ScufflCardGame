@@ -1,4 +1,4 @@
-## Welcome to Scuffl
+### Welcome to Scuffl
 
 - Scuffl is a project that is being worked on by a few friends.
 ---------------------------------------------------------------------

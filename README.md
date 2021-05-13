@@ -1,2 +1,1 @@
-## ScufflSite Source Code
-Website: https://mrscruffles.github.io/ScufflCardGame/
+Glass Website with CSS

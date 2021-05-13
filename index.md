@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# The Team
+## The Team
 
 **> - Ethan (Game Manager & Designer)
 > - Ash (Lead Programmer)
@@ -17,6 +17,6 @@ layout: default
 > .exe files are also being published. 
 > Feel free to test out the game and provide feedback.**
 
-### Contact
+## Contact
 
 **> Join the discord to talk to us, or comment on our instagram page.**

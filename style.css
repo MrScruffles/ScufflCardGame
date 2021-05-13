@@ -14,7 +14,7 @@ body{
 }
 ::selection{
   color: #f2f2f2;
-  background: #f86d8d;
+  background: #157878;
 }
 body::before,
 body::after{

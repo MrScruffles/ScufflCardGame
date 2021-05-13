@@ -1,2 +1,2 @@
-# ScufflSite
-ScufflSite Source Code
+## ScufflSite Source Code
+Website: https://mrscruffles.github.io/ScufflCardGame/

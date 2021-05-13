@@ -19,4 +19,4 @@ layout: default
 
 ## Contact
 
-> Join the discord to talk to us, or comment on our instagram page.
+- Join the discord to talk to us, or comment on our instagram page.

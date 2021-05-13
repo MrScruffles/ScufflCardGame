@@ -92,7 +92,7 @@ header .navbar{
   margin: 0 8px;
   cursor: pointer;
   transition: all 0.3s ease;
-  background-image: linear-gradient( 135deg, #ff9a9e  10%, #F6416C 100%);
+  background-image: linear-gradient( 135deg, #95c2c2  10%, #157878 100%);
 }
 .navbar .buttons input:hover{
   transform: scale(0.97);

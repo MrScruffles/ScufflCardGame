@@ -1,37 +1,25 @@
 ## Welcome to Scuffl
 
-You can use the [editor on GitHub](https://github.com/MrScruffles/ScufflCardGame/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Scuffl is a project that is being worked on by a few friends.
+---------------------------------------------------------------------
+- Ethan (Project Manager & Designer)
+- Ash (Lead Programmer)
+- Jacob (Senior Programmer)
+- Brian (Senior Programmer)
+- Zeke (Designer)
+- Jaden (Sound Design)
+- Quinn (Sound Design)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Game
 
-### Markdown
+-  N/A
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more details see [Description Page](https://github.com/MrScruffles/ScufflCardGame/tree/Description).
 
-```markdown
-Syntax highlighted code block
+### Open Source
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrScruffles/ScufflCardGame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- As of right now we plan the project to be open - sourced on launched, but this may change. Feel free to download the .exe files on our github releases. Be sure to look at the Update Logs to understand what as added/worked on.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Scuffl? Create an issue or contact on us on instagram for help.

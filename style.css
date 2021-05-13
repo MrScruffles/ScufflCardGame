@@ -28,12 +28,12 @@ body::after{
 body::before{
   clip-path: circle(30% at left 20%);
   opacity: 0.4;
-  background-image: linear-gradient( 135deg, #F6416C 10%, #ff9a9e 100%);
+  background-image: linear-gradient( 135deg, #95c2c2 10%, #157878 100%);
 }
 body::after{
   opacity: 0.4;
   clip-path: circle(25% at right 80%);
-  background-image: linear-gradient( 135deg, #F6416C 10%, #ff9a9e 100%);
+  background-image: linear-gradient( 135deg, #95c2c2 10%, #157878 100%);
 }
 header{
   height: 85vh;

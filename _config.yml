@@ -3,3 +3,5 @@ description: A card game built by a group of friends.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/MrScruffles/ScufflCardGame/releases

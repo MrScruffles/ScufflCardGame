@@ -216,3 +216,16 @@ main{
   right: 15vw;
   top: 5vh;
 }
+
+.parent{
+  width: 400px;
+  height: 200px;
+  border: 1px solid #aaa;
+  overflow: hidden;
+}
+.child{
+  height: 100%;
+  margin-right: -50px; /* maximum width of scrollbar */
+  padding-right: 50px; /* maximum width of scrollbar */
+  overflow-y: scroll;
+}

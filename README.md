@@ -10,7 +10,7 @@
  
 # Social
 <a href="https://www.instagram.com/real_scuffl/"><img alt="Instagram Social" src="https://img.shields.io/badge/Instagram-E4405F?https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=for-the-badge"></a>
-<a href="https://discord.com/invite/UmN4dKknRV"><img alt="Discord" src="https://img.shields.io/discord/831276506952106115?color=blueviolet&label=Discord&labelColor=purple&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/tf5tw9Wmxm"><img alt="Discord" src="https://img.shields.io/discord/831276506952106115?color=blueviolet&label=Discord&labelColor=purple&logo=discord&logoColor=white&style=for-the-badge"></a>
 
 # ScufflCardGame
 Scuffl is a card - game built by a few friends on Unreal Engine.

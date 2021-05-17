@@ -24,8 +24,6 @@ main{
   display: flex;
   background: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(255,255,255,0.2));
   border-radius: 0px;
-  margin-right: -50px; /* maximum width of scrollbar */
-  padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
   overflow:hidden;
 }

@@ -231,5 +231,5 @@ main{
 }
 
 @media screen and (max-width: 731px) {
-  font-size: 80px;
+  <meta name="viewport" content="width=device-width, initial-scale=0.75">
 }

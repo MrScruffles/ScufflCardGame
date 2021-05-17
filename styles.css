@@ -229,3 +229,16 @@ main{
   padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }
+
+.parentside{
+  width: 300px;
+  height: 300px;
+  border: 0px solid #aaa;
+  overflow: hidden;
+}
+.childside{
+  height: 100%;
+  margin-right: -50px; /* maximum width of scrollbar */
+  padding-right: 50px; /* maximum width of scrollbar */
+  overflow-y: scroll;
+}

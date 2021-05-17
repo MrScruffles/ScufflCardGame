@@ -218,7 +218,7 @@ main{
 }
 
 .parent{
-  width: 100%;
+  width: 80%;
   height: 330px;
   border: 0px solid #aaa;
   overflow: hidden;

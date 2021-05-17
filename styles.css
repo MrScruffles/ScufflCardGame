@@ -229,3 +229,7 @@ main{
   padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }
+
+@media screen and (max-width: 731px) {
+  width: 75%;
+}

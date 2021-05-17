@@ -233,7 +233,7 @@ main{
 .scroll-hide ul {
   max-height: 100px;
   max-width: 200px;
-  border: 2px solid #f3f3f3;
+  border: 0px solid #f3f3f3;
   padding-left: 16px;
   overflow: auto;
   /* this will hide the scrollbar in mozilla based browsers */

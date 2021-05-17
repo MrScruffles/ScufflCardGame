@@ -226,6 +226,6 @@ main{
 .child{
   height: 100%;
   margin-right: -50px; /* maximum width of scrollbar */
-  padding-right: 50px; /* maximum width of scrollbar test*/
+  padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }

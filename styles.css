@@ -231,5 +231,5 @@ main{
 }
 
 @media screen and (max-width: 731px) {
-  width: 75%;
+  font-size: 80px;
 }

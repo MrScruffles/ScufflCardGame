@@ -229,22 +229,3 @@ main{
   padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }
-
-.scroll-hide ul {
-  max-height: 100px;
-  max-width: 200px;
-  border: 0px solid #f3f3f3;
-  padding-left: 16px;
-  overflow: auto;
-  /* this will hide the scrollbar in mozilla based browsers */
-  overflow: -moz-scrollbars-none;
-  scrollbar-width: none;
-  /* this will hide the scrollbar in internet explorers */
-  -ms-overflow-style: none;
-}
-
-/* this will hide the scrollbar in webkit based browsers - safari, chrome, etc */
-.scroll-hide ul::-webkit-scrollbar { 
-  width: 0 !important;
-  display: none; 
-}

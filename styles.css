@@ -230,6 +230,8 @@ main{
   overflow-y: scroll;
 }
 
-@-ms-viewport{
-  width: device-width;
+@media screen and (max-width: 731px) /* Mobile */ {
+  body {
+    background: green;
+  }
 }

@@ -24,7 +24,7 @@ main{
   display: flex;
   background: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(255,255,255,0.2));
   border-radius: 30px;
-  overflow:hidden; /* setting to auto creates scroll column */
+  overflow:auto; /* setting to auto creates scroll column */
 }
 
 #dashboard{

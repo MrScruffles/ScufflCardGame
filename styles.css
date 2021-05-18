@@ -229,3 +229,18 @@ main{
   padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }
+
+.sidescroll {
+   	position: relative;
+   	height: 215px;
+   	overflow: hidden;
+   	width: 450px;
+   	margin: 0px auto;
+}
+
+#sideinner{
+    width: 100%;
+    overflow: auto;
+    height: 100%;
+    padding-right: 35px;
+}

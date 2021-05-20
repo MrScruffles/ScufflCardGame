@@ -1,4 +1,4 @@
-# Simple Weather App Tutorial
+# Simple Weather Module
 
 Simple weather app using HTML, CSS, and JavaScript
 

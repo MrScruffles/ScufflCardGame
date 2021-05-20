@@ -1,10 +1,10 @@
 let weather = {
-  apiKey: "cea902c2bfd3adf64a0a3d36565e1ac7",
+  apiKey: "API KEY GOES HERE",
   fetchWeather: function (city) {
     fetch(
       "https://api.openweathermap.org/data/2.5/weather?q=" +
         city +
-        "&units=imperial&appid=" +
+        "&units=metric&appid=" +
         this.apiKey
     )
       .then((response) => {
@@ -25,7 +25,7 @@ let weather = {
     document.querySelector(".icon").src =
       "https://openweathermap.org/img/wn/" + icon + ".png";
     document.querySelector(".description").innerText = description;
-    document.querySelector(".temp").innerText = temp + "°F";
+    document.querySelector(".temp").innerText = temp + "°C";
     document.querySelector(".humidity").innerText =
       "Humidity: " + humidity + "%";
     document.querySelector(".wind").innerText =
@@ -37,6 +37,68 @@ let weather = {
   search: function () {
     this.fetchWeather(document.querySelector(".search-bar").value);
   },
+};
+
+let geocode = {
+  reverseGeocode: function (latitude, longitude) {
+    var apikey = "2cad6041208649f7bacaf9013ad4ec2e";
+
+    var api_url = "https://api.opencagedata.com/geocode/v1/json";
+
+    var request_url =
+      api_url +
+      "?" +
+      "key=" +
+      apikey +
+      "&q=" +
+      encodeURIComponent(latitude + "," + longitude) +
+      "&pretty=1" +
+      "&no_annotations=1";
+
+    // see full list of required and optional parameters:
+    // https://opencagedata.com/api#forward
+
+    var request = new XMLHttpRequest();
+    request.open("GET", request_url, true);
+
+    request.onload = function () {
+      // see full list of possible response codes:
+      // https://opencagedata.com/api#codes
+
+      if (request.status == 200) {
+        // Success!
+        var data = JSON.parse(request.responseText);
+        weather.fetchWeather(data.results[0].components.city);
+        console.log(data.results[0].components.city)
+      } else if (request.status <= 500) {
+        // We reached our target server, but it returned an error
+
+        console.log("unable to geocode! Response code: " + request.status);
+        var data = JSON.parse(request.responseText);
+        console.log("error msg: " + data.status.message);
+      } else {
+        console.log("server error");
+      }
+    };
+
+    request.onerror = function () {
+      // There was a connection error of some sort
+      console.log("unable to connect to server");
+    };
+
+    request.send(); // make the request
+  },
+  getLocation: function() {
+    function success (data) {
+      geocode.reverseGeocode(data.coords.latitude, data.coords.longitude);
+    }
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(success, console.error);
+    }
+    else {
+      weather.fetchWeather("Denver");
+    }
+  }
 };
 
 document.querySelector(".search button").addEventListener("click", function () {
@@ -51,4 +113,4 @@ document
     }
   });
 
-weather.fetchWeather("Denver");
+geocode.getLocation();

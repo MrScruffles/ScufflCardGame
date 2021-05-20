@@ -1,6 +1,6 @@
-const key = 'cbe3dd267a18f6c89943b3eff94f1ed7';
+const key = '2c1bc99d8ca693f70d486339db8b276e';
 
-// const baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=Lagos&appid=cbe3dd267a18f6c89943b3eff94f1ed7';
+// const baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=Lagos&appid=2c1bc99d8ca693f70d486339db8b276e';
 
 // fetch(baseURL)
 //     .then((data) => { console.log('response', data.json()) })

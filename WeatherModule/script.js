@@ -41,7 +41,6 @@ let weather = {
 
 let geocode = {
   reverseGeocode: function (latitude, longitude) {
-    <script>
   var apikey = '0ea7eab9046e4f1da6078a77bfa1cf01';
   var latitude = '51.0';
   var longitude = '7.0';

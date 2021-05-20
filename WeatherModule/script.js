@@ -50,3 +50,5 @@ document
       weather.search();
     }
   });
+
+ weather.fetchWeather("Denver");

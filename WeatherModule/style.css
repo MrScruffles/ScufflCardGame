@@ -78,14 +78,13 @@ h1.temp {
 
 .weather.loading:after {
   visibility: visible;
-  content: "Start with a simple search...";
+  content: "Loading...";
   color: white;
   position: absolute;
   top: 0;
   left: 20px;
 }
 
-a
-{
+a {
  color:GreenYellow;
 }

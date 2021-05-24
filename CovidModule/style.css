@@ -96,6 +96,17 @@ img#flag {
   }
 }
 
-a {
- color:DarkMagenta;
-}
+a{ 
+background-color: Green;  
+border: none; 
+color: white; 
+padding: 12px 630px; 
+text-align: center; 
+text-decoration: none; 
+display: inline-block; 
+margin: 2px 6px; 
+cursor: pointer; 
+font-size:20px; 
+margin-left:0px;
+border-radius: 6px;
+} 

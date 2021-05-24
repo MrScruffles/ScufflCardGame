@@ -40,8 +40,9 @@ body:before{
     text-align: center;
 }
 img#flag {
-    height: 20px;
-    width: 20px;
+    margin: 0 0 -3.2px;
+    height: 25px;
+    width: 38px;
 }
 .card {
     width: 84%;

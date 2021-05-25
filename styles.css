@@ -244,3 +244,17 @@ main{
     height: 100%;
     padding-right: 35px;
 }
+
+
+.parents{
+  width: flex;
+  height: 100%;
+  border: 0px solid #aaa;
+  overflow: hidden;
+}
+.childs{
+  height: 100%;
+  margin-right: -50px; /* maximum width of scrollbar */
+  padding-right: 50px; /* maximum width of scrollbar */
+  overflow-y: scroll;
+}

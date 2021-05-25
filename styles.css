@@ -160,6 +160,10 @@ main{
   border-radius: 20px;
   box-shadow: 0 1px 30px rgba(0,0,0,0.1), 0 10px 30px rgba(0,0,0,0.15);
   opacity: 0.9;
+  -moz-box-shadow: none;
+  -goog-ms-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
 }
 
 .game-card .game-image{

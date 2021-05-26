@@ -265,10 +265,10 @@ main{
 e{
   font-size: 1rem;
   height:100%;
-  width: 185%;
+  width: 182%;
   background: rgba(255,255,255,0);
   display: flex;
   flex-direction: column;
-left: -150px;
+left: -145px;
 position: relative;
 }

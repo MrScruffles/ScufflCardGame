@@ -22,13 +22,6 @@ h1.title {
   display: block;
   float: left; }
 
-.rev{
-  -moz-transform: rotate(180deg);
-  -webkit-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  -o-transform: rotate(180deg);
-  transform: rotate(180deg); }
-
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
@@ -82,12 +75,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #eee4da;
-    -moz-transform: rotate(180deg);
-    -webkit-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
-    -o-transform: rotate(180deg);
-    transform: rotate(180deg); }
+    color: #eee4da; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;

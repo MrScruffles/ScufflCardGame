@@ -286,3 +286,13 @@ e{
   padding-right: 50px; /* maximum width of scrollbar */
   overflow-y: scroll;
 }
+
+mainz{
+  left: -145px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(255,255,255,0.2));
+  border-radius: 30px;
+  overflow:hidden; /* setting to auto creates scroll column */
+}

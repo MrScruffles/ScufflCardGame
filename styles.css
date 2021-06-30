@@ -297,3 +297,8 @@ mainz{
   border-radius: 30px;
   overflow:hidden; /* setting to auto creates scroll column */
 }
+
+#active-gamez{
+  width: 56%;
+  height: 86%;
+}

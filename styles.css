@@ -274,7 +274,8 @@ e{
 }
 
 .parentz{
-  width: 550px;
+  min-width:900px;
+  width: flex;
   height: 100%;
   border: 0px solid #aaa;
   overflow: hidden;

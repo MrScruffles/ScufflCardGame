@@ -272,3 +272,16 @@ e{
   left: -145px;
   position: relative;
 }
+
+.parentz{
+  width: 550px;
+  height: 100%;
+  border: 0px solid #aaa;
+  overflow: hidden;
+}
+.childz{
+  height: 100%;
+  margin-right: -50px; /* maximum width of scrollbar */
+  padding-right: 50px; /* maximum width of scrollbar */
+  overflow-y: scroll;
+}

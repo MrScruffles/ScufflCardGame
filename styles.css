@@ -113,6 +113,12 @@ main{
   margin-left: 1.5rem;
 }
 
+#join-pro h4{
+  color: white;
+  font-size: 1.2rem;
+  margin-left: 16rem;
+}
+
 #join-pro img{
   height: 70%;
   margin-right: 1rem;

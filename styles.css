@@ -11,6 +11,12 @@ body {
   display:flex;
 }
 
+}
+.containerz{
+  backdrop-filter: blur(20px);
+  display:flex;
+}
+
 .blur-filter{
   min-width:900px;
   width: 50%;
@@ -18,6 +24,7 @@ body {
   height: 74vh;
   backdrop-filter: blur(20px);
 }
+
 main{
   width: 100%;
   height: 100%;
@@ -166,6 +173,57 @@ main{
   box-shadow: none;
 }
 
+.game-cardz{
+  margin-bottom: 2rem;
+  display:flex;
+  width: 100%;
+  background: linear-gradient(to bottom right, rgb(252, 253, 255), rgba(252, 253, 255,0.8));
+  padding: 1rem 2rem;
+  border-radius: 20px;
+  box-shadow: 0 1px 30px rgba(0,0,0,0.1), 0 10px 30px rgba(0,0,0,0.15);
+  opacity: 0.9;
+  -moz-box-shadow: none;
+  -goog-ms-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+
+.game-cardz .game-image{
+  border-radius: 25px;
+  height: 80px;
+}
+
+.game-cardz .game-progress{
+  margin: 0 2rem;
+}
+.game-cardz .game-progress h5{
+  font-size: 1rem;
+  opacity: 0.7;
+}
+
+.game-cardz .game-progress p{
+  margin-top:0.3rem;
+  font-size: 0.7rem;
+  opacity: 0.4;
+}
+
+.game-cardz .game-progress progress{
+  height: 30px;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.game-cardz .percentage-progress{
+  display: flex;
+  align-items: center;
+  margin: auto;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #0E81F8;
+  opacity: 0.8;
+}
+
 .game-card .game-image{
   border-radius: 25px;
   height: 80px;
@@ -271,20 +329,6 @@ e{
   flex-direction: column;
   left: -145px;
   position: relative;
-}
-
-.parentz{
-  min-width:900px;
-  width: flex;
-  height: 100%;
-  border: 0px solid #aaa;
-  overflow: hidden;
-}
-.childz{
-  height: 100%;
-  margin-right: -50px; /* maximum width of scrollbar */
-  padding-right: 50px; /* maximum width of scrollbar */
-  overflow-y: scroll;
 }
 
 mainz{

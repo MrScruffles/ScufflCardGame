@@ -6,22 +6,22 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - **ReadME will always have the update log outfront, while the logs are there so people can see the older updates/changes.**
 
 **Version**
-- *v0.08.7 got released on 5/10/2021.*
-- *v0.08.8 in the works.*
+- *v0.08.8 got released on 10/30/2021.*
+- *v0.08.9 in the works.*
 
-**5/10/2021 - 17:57 - v0.08.7 [Scuffl Game]**
-- **Major Update**
+**10/30/2021 - 15:05 - v0.08.8 [Scuffl Game]**
+- **Engine Update**
 
 **What is Fixed**
-- **[Fixed]** - Plenty of bugs that were never mentioned along with a crash on project start.
-- **[Fixed]** - Pretty much a code clean up.
+- **[Fixed]** - Plenty of bugs that again were just never mentioned. 
+- **[Fixed]** - Code clean up as updated from UE 4.26.2 to 4.27.1
 
-**What got Added**
-- **[Updates]** - UI elements were added/updated, again.
-- **[Updates]** - During war phase, when both drawn cards are equal, it will play animation and draw the face up card. While doing so it will state winner/looser or even state drawn which will repeat the war phase again.
-- **[Updates]** - There is now a coin in the top right which adds .25 points on each Win. This will be later used on a shop.
-- **[Updates]** - Plenty of AI improvements. 
+**What got Added** 
+- **[Updates]** - Updated from UE 4.26.2 to 4.27.1
+- **[Updates]** - AI improvements. 
 - **[Updates]** - New icon(s) are now, slowly, being implented.
+- **[Updates]** - Nvidia's Reflex mode, DLSS, along with RTX SDK were added, expect some features to build along these addtions.
+- **[Updates]** - Nvidia's Photo Mode [Alt + F2] is added.
 
 **Uploaded**
 - The source code is uploaded. 

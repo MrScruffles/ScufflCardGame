@@ -20,7 +20,7 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - **[Updates]** - SDK implementations. 
 - **[Updates]** - New icon(s) are now, slowly, being implented.
 - **[Updates]** - Nvidia's Reflex mode, DLSS, along with RTX SDK were added, expect some features to build along these addtions.
-- **[Updates]** - Nvidia's Photo Mode [Alt + F2] is added. [Sometimes works, sometimes doesn't]
+- **[Updates]** - Nvidia's Photo Mode [Alt + F2] is added. [Mostly works, but again sometimes doesn't]
 - **[Updates]** - Unlocked FPS cap for monitors, now capped to 300 fps instead of 60.
 
 - **[Note]** - On further tests this version may turn off instant replay, sorry fix is being worked on. <-- This bug may still happen. 

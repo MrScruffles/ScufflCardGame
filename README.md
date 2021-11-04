@@ -6,24 +6,24 @@ Scuffl is a card - game built by a few friends on Unreal Engine.
 - **ReadME will always have the update log outfront, while the logs are there so people can see the older updates/changes.**
 
 **Version**
-- *v0.08.8 got released on 10/30/2021.*
-- *v0.08.9 in the works.*
+- *v0.08.9 got released on 11/03/21.*
+- *v0.09.0 in the works.*
 
-**10/30/2021 - 15:05 - v0.08.8 [Scuffl Game]**
-- **Engine Update**
+**11/03/21 - 20:01 - v0.08.9 [Scuffl Game]**
+- **SDK Updates**
 
 **What is Fixed**
-- **[Fixed]** - Plenty of bugs that again were just never mentioned. 
-- **[Fixed]** - Code clean up as updated from UE 4.26.2 to 4.27.1
+- **[Fixed]** - Plenty of bugs that again were just never mentioned. [Some were added on in v0.08.8 readme]
+- **[Fixed]** - Instant Replay Bug, should be fixed or happens less occasionally. 
 
 **What got Added** 
-- **[Updates]** - Updated from UE 4.26.2 to 4.27.1
-- **[Updates]** - AI improvements. 
+- **[Updates]** - SDK implementations. 
 - **[Updates]** - New icon(s) are now, slowly, being implented.
 - **[Updates]** - Nvidia's Reflex mode, DLSS, along with RTX SDK were added, expect some features to build along these addtions.
-- **[Updates]** - Nvidia's Photo Mode [Alt + F2] is added. [Very, very buggy]
+- **[Updates]** - Nvidia's Photo Mode [Alt + F2] is added. [Sometimes works, sometimes doesn't]
+- **[Updates]** - Unlocked FPS cap for monitors, now capped to 300 fps instead of 60.
 
-- **[Note]** - On further tests this version may turn off instant replay, sorry fix is being worked on. 
+- **[Note]** - On further tests this version may turn off instant replay, sorry fix is being worked on. <-- This bug may still happen. 
 
 **Uploaded**
 - The source code is uploaded. 
